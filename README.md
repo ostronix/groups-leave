@@ -1,1 +1,5 @@
-# groups-leave
+# 🧨 Usage
+
+```shell
+node index.js
+```
